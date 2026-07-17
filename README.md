@@ -1,5 +1,10 @@
 # school-api
 
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-009688?logo=fastapi)](https://fastapi.tiangolo.com)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub Pages](https://img.shields.io/badge/Docs-OpenAPI%20Swagger-blue)](https://sotonavarrojosue-creator.github.io/school-api/)
+
 FastAPI REST API for school management with Obsidian sync and AI-powered endpoints.
 
 ## Features
